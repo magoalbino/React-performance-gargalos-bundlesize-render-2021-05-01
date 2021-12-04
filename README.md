@@ -64,7 +64,7 @@ Na pasta src, temos dois diretórios principais:
 - `Pages/` : onde vamos ter as paginas referente as rotas da aplicão
 - `Utils` : que contem algums arquivos utilitarios para a aplicão
 
-## Expert
+## Créditos
 
 | [<img src="https://avatars.githubusercontent.com/u/7741167?s=460&u=41e738d1178fcf31656665fe34c1c490d9c271cb&v=4" width="75px;"/>](https://github.com/vitormalencar) |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
